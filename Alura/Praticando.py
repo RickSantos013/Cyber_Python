@@ -211,11 +211,10 @@ print(saudacao(hora_atual)) """
 
 #08 - TOTAL DE VENDAS
 def soma():
-    soma = (a+b+c)
+    soma = (a+b)
     return soma
 a = int(input("Digite o valor da primeira venda: "))
 b = int(input("Digite o valor da segunda venda: "))
-c = int(input("Digite o valor da terceira venda: "))
 print(f"A soma total das vendas, foi de {soma()} vendas") 
 
 
