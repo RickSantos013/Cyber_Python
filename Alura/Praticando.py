@@ -207,7 +207,7 @@ def saudacao(hora):
     else:
         return ("Boa noite!")
 hora_atual = int(input("Informe a hora atual (0-23h): "))
-print(saudacao(hora_atual)) 
+print(saudacao(hora_atual)) """
 
 #08 - TOTAL DE VENDAS
 def soma():
@@ -216,7 +216,7 @@ def soma():
 a = int(input("Digite o valor da primeira venda: "))
 b = int(input("Digite o valor da segunda venda: "))
 c = int(input("Digite o valor da terceira venda: "))
-print(f"A soma total das vendas, foi de {soma()} vendas") """
+print(f"A soma total das vendas, foi de {soma()} vendas") 
 
 
 
