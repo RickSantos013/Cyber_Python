@@ -1,0 +1,4 @@
+HOST: 45.33.32.156 (scanme.nmap.org)
+STATUS: (up)
+Porta 22/tcp -> ssh 
+Porta 80/tcp -> http 

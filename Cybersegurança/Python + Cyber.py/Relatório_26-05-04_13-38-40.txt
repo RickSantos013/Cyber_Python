@@ -1,0 +1,6 @@
+HOST: 50.116.1.184 (scanner.nmap.org)
+STATUS: (up)
+Porta 22/tcp -> ssh 
+Porta 25/tcp -> smtp 
+Porta 70/tcp -> gopher 
+Porta 80/tcp -> http 

@@ -1,0 +1,12 @@
+
+Disparando google.com.br [142.251.132.35] com 32 bytes de dados:
+Resposta de 142.251.132.35: bytes=32 tempo=17ms TTL=113
+Resposta de 142.251.132.35: bytes=32 tempo=16ms TTL=113
+Resposta de 142.251.132.35: bytes=32 tempo=21ms TTL=113
+Resposta de 142.251.132.35: bytes=32 tempo=17ms TTL=113
+
+Estat¡sticas do Ping para 142.251.132.35:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 16ms, M ximo = 21ms, M‚dia = 17ms
